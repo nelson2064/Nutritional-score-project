@@ -1,0 +1,7 @@
+go mod init github.com/nelson/nutriproject        >have all dependencies
+
+go run .
+
+
+go build main.go //creates and executable file
+go run main.go
